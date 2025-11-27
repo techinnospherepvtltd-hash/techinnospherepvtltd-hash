@@ -52,10 +52,10 @@
 
 <h2 align="center">🚀 About Us</h2>
 
-🚀 TechInnosphere Pvt. Ltd.: Pioneering Tomorrow's Digital Frontier
+<h2 align="center">🚀 TechInnosphere Pvt. Ltd.: Pioneering Tomorrow's Digital Frontier</h2>
 TechInnosphere Pvt. Ltd. stands at the forefront of next-generation technology, crafting AI-powered, data-driven solutions that seamlessly transform visionary ideas into scalable innovations. Specializing in Artificial Intelligence, Data Science, Business Intelligence, Full-Stack Development, and Cybersecurity, the company empowers startups, enterprises, and trailblazers to conquer complex challenges with intelligent digital experiences.​
 
-🌟 Core Expertise Areas
+<h2 align="center">🌟 Core Expertise Areas</h2>
 AI & Machine Learning: Deploy predictive analytics, intelligent automation, chatbots, and custom ML models that learn, adapt, and optimize business outcomes.
 
 Data Science & BI: Unlock actionable insights through advanced dashboards (Power BI, Tableau), statistical modeling, and real-time analytics for strategic decision-making.
@@ -66,11 +66,11 @@ Cybersecurity Excellence: Comprehensive audits, threat detection, GDPR/HIPAA-com
 
 Business Automation & RPA: Streamline HR, sales, and operations with robotic process automation and smart workflows that eliminate errors and boost efficiency.​
 
-💡 Vision, Mission & Impact
+<h2 align="center">💡 Vision, Mission & Impact</h2>
 Vision: Reshape the digital ecosystem with intelligent, scalable tech that redefines business competition and operational excellence.
 Mission: Bridge ambitious goals with cutting-edge innovation through AI integration, world-class engineering, and unwavering cybersecurity—delivering purposeful, high-performance solutions.​
 
-🔮 Future Roadmap Highlights
+<h2 align="center">🔮 Future Roadmap Highlights</h2>
 Future innovations include AI Insight Engine SaaS, AlgoTrade tools, Smart Construction ERP, MedHub POS, and GovTech Suite—expanding into analytics, trading, healthcare, and public sector transformation.​
 
 Pioneered by experts like Fehed Rehman Shaikh (AI/Cybersecurity Lead) and Omar Khan (Engineering Lead), TechInnosphere merges creativity with computation. Ready to innovate? Let's build the future together!​

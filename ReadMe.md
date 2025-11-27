@@ -20,7 +20,7 @@
   
 <td align="center">
       <a href="https://www.instagram.com/techlnnosphere_saas/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftechlnnosphere_saas%2F&subtitle=_.deepakmishra_&size=square" alt="Technionosphere PVT LTD">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftechlnnosphere_saas%2F&subtitle=techlnnosphere_saas&size=square" alt="Technionosphere PVT LTD">
       </a>
 </td>
  <td align="center">
@@ -219,7 +219,7 @@ With a strong foundation in both front-end and back-end technologies, We're a de
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:techinnospherepvtltd.comtechinnospherepvtltd.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=deepakm7778@gmail.com&size=square" alt="Technionosphere PVT LTD" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=techinnospherepvtltd.comtechinnospherepvtltd.com&size=square" alt="Technionosphere PVT LTD" style="margin: 10px;">
       </a>
     </td>
     <td align="center">

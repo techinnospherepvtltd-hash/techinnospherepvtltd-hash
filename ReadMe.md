@@ -11,7 +11,7 @@
 </p> -->
 
 <p align="center">
-    |AI-ML Solutions |Cyber Secuirty | Full-Stack Developer | Problem Solver | Tech Enthusiast
+    AI-ML Solutions | Cyber Secuirty | Full-Stack Developer | Problem Solver | Tech Enthusiast
 </p>
 
 <div align="center">

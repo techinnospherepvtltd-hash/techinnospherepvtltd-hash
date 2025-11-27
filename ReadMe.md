@@ -5,10 +5,10 @@
 
   <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , This is Techinnosphere PVT LTD</h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;AI+Engineer;App+Development;UI/UX;Backend+Developer;" alt="Typing SVG" />
 
-</p>
+</p> -->
 
 <p align="center">
     Full-Stack Developer | Problem Solver | Tech Enthusiast

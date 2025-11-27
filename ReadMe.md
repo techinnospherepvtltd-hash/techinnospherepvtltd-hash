@@ -19,8 +19,8 @@
   <tr>
   
 <td align="center">
-      <a href="https://www.instagram.com/_.deepakmishra_/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2F_.deepakmishra_%2F&subtitle=_.deepakmishra_&size=square" alt="DEEPAK MISHRA">
+      <a href="https://www.instagram.com/techlnnosphere_saas/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Ftechlnnosphere_saas%2F&subtitle=_.deepakmishra_&size=square" alt="Technionosphere PVT LTD">
       </a>
 </td>
  <td align="center">
@@ -218,13 +218,13 @@ With a strong foundation in both front-end and back-end technologies, We're a de
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:deepakm7779@gmail.com" target="_blank">
+      <a href="mailto:techinnospherepvtltd.comtechinnospherepvtltd.com" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=deepakm7778@gmail.com&size=square" alt="Technionosphere PVT LTD" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028196172" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028196172&size=square" alt="India-+91-702-819-6172" style="margin: 10px;">
+  <a href="https://wa.me/917710031550" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7710031550&size=square" alt="India-+91-771-003-1550" style="margin: 10px;">
   </a>
 </td>
 

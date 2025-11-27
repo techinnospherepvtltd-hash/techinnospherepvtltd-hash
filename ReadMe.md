@@ -24,21 +24,21 @@
       </a>
 </td>
  <td align="center">
-      <a href="https://www.linkedin.com/in/ddevguru/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fddevguru-179875209%2F&subtitle=@Deepak+Mishra&size=square" alt="DEEPAK MISHRA">
+      <a href="www.linkedin.com/in/techinnosphere-pvt-ltd/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftechinnosphere-pvt-ltd%2F&subtitle=@techinnosphere-pvt-ltd&size=square" alt="Technionosphere PVT LTD">
       </a>
 </td>
     
    <td align="center">
-  <a href="https://github.com/ddevguru" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fddevguru&subtitle=ddevguru&size=square" alt="ddevguru">
+  <a href="https://github.com/techinnospherepvtltd-hash" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Ftechinnospherepvtltd-hash&subtitle=techinnospherepvtltd-hash&size=square" alt="techinnospherepvtltd-hash">
   </a>
 </td>
-<td align="center">
+<!-- <td align="center">
   <a href="https://ddevguru.github.io/ddevguru-portfolio/" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siprotodotio&subtitle=ddevguru+portfolio&size=square" alt="ddevguru">
   </a>
-</td>
+</td> -->
   </tr>
 </table>
 
@@ -50,9 +50,9 @@
 
 
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Us</h2>
 
-With a strong foundation in both front-end and back-end technologies, I am a dedicated and innovative full stack developer. My expertise lies in creating robust, scalable, and user-friendly web applications. I bring over 3 years of experience in developing web solutions that drive business growth and enhance user engagement.
+With a strong foundation in both front-end and back-end technologies, We're a dedicated and innovative full stack developer. My expertise lies in creating robust, scalable, and user-friendly web applications. We bring over 3 years of experience in developing web solutions that drive business growth and enhance user engagement.
 
 
 
@@ -219,7 +219,7 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:deepakm7779@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=deepakm7778@gmail.com&size=square" alt="Deepak Mishra" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=deepakm7778@gmail.com&size=square" alt="Technionosphere PVT LTD" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -238,7 +238,7 @@ With a strong foundation in both front-end and back-end technologies, I am a ded
 <h3>
 <div align="center">
   
-⭐️ From [ddevguru](https://github.com/ddevguru) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [techinnospherepvtltd-hash](https://github.com/techinnospherepvtltd-hash) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>

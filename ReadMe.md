@@ -52,7 +52,28 @@
 
 <h2 align="center">🚀 About Us</h2>
 
-With a strong foundation in both front-end and back-end technologies, We're a dedicated and innovative full stack developer. My expertise lies in creating robust, scalable, and user-friendly web applications. We bring over 3 years of experience in developing web solutions that drive business growth and enhance user engagement.
+🚀 TechInnosphere Pvt. Ltd.: Pioneering Tomorrow's Digital Frontier
+TechInnosphere Pvt. Ltd. stands at the forefront of next-generation technology, crafting AI-powered, data-driven solutions that seamlessly transform visionary ideas into scalable innovations. Specializing in Artificial Intelligence, Data Science, Business Intelligence, Full-Stack Development, and Cybersecurity, the company empowers startups, enterprises, and trailblazers to conquer complex challenges with intelligent digital experiences.​
+
+🌟 Core Expertise Areas
+AI & Machine Learning: Deploy predictive analytics, intelligent automation, chatbots, and custom ML models that learn, adapt, and optimize business outcomes.
+
+Data Science & BI: Unlock actionable insights through advanced dashboards (Power BI, Tableau), statistical modeling, and real-time analytics for strategic decision-making.
+
+Full-Stack Development: Build custom web/mobile apps, enterprise systems (ERP, CRM, POS), e-commerce platforms, and robust APIs with modern frameworks like React, Node.js, and Python.​
+
+Cybersecurity Excellence: Comprehensive audits, threat detection, GDPR/HIPAA-compliant encryption, and rapid incident response to safeguard digital assets.
+
+Business Automation & RPA: Streamline HR, sales, and operations with robotic process automation and smart workflows that eliminate errors and boost efficiency.​
+
+💡 Vision, Mission & Impact
+Vision: Reshape the digital ecosystem with intelligent, scalable tech that redefines business competition and operational excellence.
+Mission: Bridge ambitious goals with cutting-edge innovation through AI integration, world-class engineering, and unwavering cybersecurity—delivering purposeful, high-performance solutions.​
+
+🔮 Future Roadmap Highlights
+Future innovations include AI Insight Engine SaaS, AlgoTrade tools, Smart Construction ERP, MedHub POS, and GovTech Suite—expanding into analytics, trading, healthcare, and public sector transformation.​
+
+Pioneered by experts like Fehed Rehman Shaikh (AI/Cybersecurity Lead) and Omar Khan (Engineering Lead), TechInnosphere merges creativity with computation. Ready to innovate? Let's build the future together!​
 
 
 
